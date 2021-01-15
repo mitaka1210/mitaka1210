@@ -72,7 +72,7 @@ JSON       2 hrs 17 mins    ▓░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ```text
-🔥 Editors and Prepros Who Today i will use for training:
+🔥 Editors and Prepros Who Today i will use for training.They are most using, but i know more :smirk: :
 
 SublimeText             6 hrs 42 mins        ████████████░░░░░░░░░░░░░░░  77.43%
 
