@@ -1,26 +1,29 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://www.facebook.com/mitaka1210">
+  <img align="left" alt="Dimitar Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
+<a href="https://twitter.com/dimitar1201">
+  <img align="left" alt="Dimitar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
+  <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Dimitar Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+
+<a href="https://vk.com/mitaka1210">
+<img align="left" alt="Dimitar VK" width="22px" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
+
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mitaka1210.mitaka1210)
 
 <br />
 
-Hi, I'm [Dimitar Dimitrov !](https://blog.abhisheknaidu.tech/) , a passionate self-taught Junior Front-end Developer.
+Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/) , a passionate self-taught Junior Front-end Developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -29,7 +32,7 @@ Hi, I'm [Dimitar Dimitrov !](https://blog.abhisheknaidu.tech/) , a passionate se
 - 👨🏽‍💻 I’m currently working on something cool website;
 - 🌱 I’m currently learning Typescript;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@dimitrov](https://twitter.com/abhisheknaiidu);
+- 📫 How to reach me: [@dimitrov](https://twitter.com/dimitar1201);
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages and Tools:**
