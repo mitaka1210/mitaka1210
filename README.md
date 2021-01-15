@@ -49,13 +49,10 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 
 </div>
 
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
