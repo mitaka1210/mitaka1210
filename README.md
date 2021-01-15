@@ -53,10 +53,10 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 <br/>
 <br/>
 <br/>
-📊 **This Week I Spent My Time On:**
+
 
 <!--START_SECTION:waka-->
-
+📊 **This Week I Spent My Time On:**
 ```text
 TypeScript 5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 %
 
