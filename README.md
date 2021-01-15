@@ -39,11 +39,9 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 
 <div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -58,28 +56,29 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 ```text
 TypeScript 5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 %
 
-React JS   1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+React JS   1 hrs 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
 
-SCSS       1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+SCSS       1 hrs 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
 
 Redux      3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 
-JSON       2hrs 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JSON       2 hrs 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
 
 ```text
-🔥 Editors and Prepros:
-SublimeText             6 hrs 42 mins       ███████████████████░░░░░░    77.43%
+🔥 Editors and Prepros Who Today i will use for training:
 
-Visual Studio           1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░    8.57%
+SublimeText             6 hrs 42 mins        ████████████░░░░░░░░░░░░░░░  77.43%
 
-VS Code                 23 mins             ███████████████████████████░ 92.49%
+Visual Studio           1 hrs 35 mins        ████░░░░░░░░░░░░░░░░░░░░░    8.57%
 
-Prepros                 1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░░░░ 28.07%
+VS Code                 9 hrs 23 mins        ███████████████████████████░ 92.49%
 
-Figma          1 hr 35 mins                 ██████░░░░░░░░░░░░░░░░░░░░░░ 18.07%
+Prepros                 1 hrs 35 mins        ████████░░░░░░░░░░░░░░░░░░░░ 28.07%
+
+Figma                   1 hrs 35 mins        ██████░░░░░░░░░░░░░░░░░░░░░░ 18.07%
 ```
 
 🚧 **My Todoist Stats:**
