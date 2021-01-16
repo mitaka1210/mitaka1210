@@ -33,7 +33,7 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 - 🌱 I’m currently learning Typescript;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dimitrov](https://twitter.com/dimitar1201);
-- 📝[Resume](https://drive.google.com/drive/u/0/folders/1FcnzTtPW0yD8ftlG422CnSOzarGQ36B6)
+- 📝[Resume](https://drive.google.com/file/d/1oAN20BmXThM9Ulj2kyKXEtY1qhGh-1Wr/view?usp=sharing)
 
 **Languages and Tools:**
 
