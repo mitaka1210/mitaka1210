@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
   <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/user/31tqzx7tc5hrjhoywb5ua2tahtsu">
   <img align="left" alt="Dimitar Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
