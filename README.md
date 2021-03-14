@@ -33,14 +33,13 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 - 🌱 I’m currently learning Typescript;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dimitrov](https://twitter.com/dimitar1201);
-- 📝[Resume](https://drive.google.com/file/d/1pbvbTeT5D2Vz_jI37154UGK0b26drHnA/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1fb34XA9kIhJTVpodrQoYcG8cj5UVyqCl/view?usp=sharing)
 
 **Languages and Tools:**
 
 <div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
