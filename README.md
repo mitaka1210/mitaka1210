@@ -7,7 +7,7 @@
 
 
 <a href="https://twitter.com/dimitar1201">
-  <img align="left" alt="Dimitar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" background="white" alt="Dimitar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
   <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
