@@ -11,7 +11,7 @@
   <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31tqzx7tc5hrjhoywb5ua2tahtsu">
-  <img align="left" alt="Dimitar Spotify" width="22px" src="https://img.icons8.com/plasticine/344/spotify--v2.png" />
+  <img align="left" alt="Dimitar Spotify" width="22px" src="https://img.icons8.com/plasticine/344/spotify--v2.png" height="20" width="20" />
 </a>
 
 <a href="https://vk.com/mitaka1210">
