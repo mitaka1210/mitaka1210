@@ -10,10 +10,6 @@
 <a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
   <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31tqzx7tc5hrjhoywb5ua2tahtsu">
-  <img align="left" alt="Dimitar Spotify" src="https://img.icons8.com/plasticine/344/spotify--v2.png"/>
-</a>
-
 <a href="https://vk.com/mitaka1210">
 <img align="left" alt="Dimitar VK" width="22px" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
 
