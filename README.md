@@ -19,14 +19,14 @@
 
 <br />
 
-Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/) , a passionate self-taught Front-end Developer.
+Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/), a passionate self-taught Front-end Developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool website;
-- 🌱 I’m currently learning Typescript;
+- 🌱 I’m currently working with Angular/ReactJS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@dimitrov](https://twitter.com/dimitar1201);
 - 📝[Resume](https://drive.google.com/file/d/1fb34XA9kIhJTVpodrQoYcG8cj5UVyqCl/view?usp=sharing)
@@ -42,10 +42,8 @@ Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  </code>
-
-  <br/>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
+<br/>
 <br/>
 <br/>
 <br/>
