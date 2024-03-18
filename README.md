@@ -8,7 +8,7 @@
   <img align="left" background="white" alt="Dimitar | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
-  <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" />
 </a>
 <a href="https://vk.com/mitaka1210">
 <img align="left" alt="Dimitar VK" width="22px" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
