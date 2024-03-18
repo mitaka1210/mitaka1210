@@ -5,7 +5,7 @@
   <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="Facebook profile" height="20" width="20" />
 </a>
 <a href="https://twitter.com/dimitar1201">
-  <img align="left" background="white" alt="Dimitar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" background="white" alt="Dimitar | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://www.svgrepo.com/show/475689/twitter-color.svg)" />
 </a>
 <a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
   <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
