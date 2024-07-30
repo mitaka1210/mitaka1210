@@ -19,7 +19,8 @@
 
 <br />
 
-Hi, I'm [Dimitar Dimitrov !](https://mitaka1210.github.io/Personal-Portfolio--2/), a passionate self-taught Front-end Developer.
+Hi, I'm [Dimitar Dimitrov !](https://mitaka-website-stage.vercel.app/Home-page
+), a passionate self-taught Front-end Developer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
