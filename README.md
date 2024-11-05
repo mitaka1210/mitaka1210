@@ -1,97 +1,88 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center" style='margin: 3em;'>
+    <h2 style='font-family: "Akaya Telivigala", system-ui;
+  font-weight: 400;
+  font-style: normal;'>Hi all and welcome to my page!</h2>
+    <h4 style='  font-family: "Akaya Telivigala", system-ui;
+  font-weight: 400;
+  font-style: normal;'>I'm Dimitar, Front-end developer from  Shumen, Bulgaria</h4>
+
+</div>
 
 
-<a href="https://www.facebook.com/mitaka1210">
-  <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="Facebook profile" height="20" width="20" />
-</a>
-<a href="https://twitter.com/dimitar1201">
-  <img align="left" background="white" alt="Dimitar | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dimitar-dimitrov1201/">
-  <img align="left" alt="Dimitar's LinkedIN" width="22px" src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" />
-</a>
-<a href="https://vk.com/mitaka1210">
-<img align="left" alt="Dimitar VK" width="22px" src="https://img.icons8.com/color/48/000000/vk-circled.png"/>
+<div style='background: white; border-radius: 16px; margin: -20px; padding: 15px; position: relative; top: 5px'>
+Front-end Developer
 
-</a>
+* 🌍  I'm based in Ruse, Bulgaria
+* ✉️  You can contact me at [dimitard185@gmail.com](mailto:dimitard185@gmail.com)
+* 🚀  I'm currently working on [my-website](https://mitaka-website.vercel.app)
+* 🤝  I'm open to collaborating on interesting project
+* ⚡  First Live and work in your spare time!
 
-![](https://visitor-badge.glitch.me/badge?page_id=mitaka1210.mitaka1210)
+<!-- <a href="https://www.github.com/mitaka1210" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mitaka1210?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.x.com/dimitar1201" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dimitar1201?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> -->
 
-<br />
-
-Hi, I'm [Dimitar Dimitrov !](https://mitaka-website-stage.vercel.app/Home-page
-), a passionate self-taught Front-end Developer.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuff:**
-
-- 👨🏽‍💻 I’m currently working on something cool website;
-- 🌱 I’m currently working with Angular/ReactJS;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@dimitrov](https://twitter.com/dimitar1201);
-- 📝[Resume](https://drive.google.com/file/d/1fb34XA9kIhJTVpodrQoYcG8cj5UVyqCl/view?usp=sharing)
-
-**Languages and Tools:**
-
-<div>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
-<br/>
-  <p>And more....</p>
-<br/>
-<br/>
-<br/>
+### Skills
 
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On:**
-```text
-TypeScript 5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 %
+<p align="left">
+<a style='margin:5px' href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a style='margin:5px' href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a style='margin:5px' href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a style='margin:5px' href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+<a style='margin:5px' href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a style='margin:5px' href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a style='margin:5px' href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a style='margin:5px' href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a style='margin:5px' href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a style='margin:5px' href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a style='margin:5px' href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a style='margin:5px' href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a style='margin:5px' href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a style='margin:5px' href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a style='margin:5px' href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a style='margin:5px' href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a style='margin:5px' href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a style='margin:5px' href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a style='margin:5px' href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a style='margin:5px' href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a style='margin:5px' href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a style='margin:5px' href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+<a style='margin:5px' href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a style='margin:5px' href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-React JS   1 hrs 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
 
-SCSS       1 hrs 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+### Socials
+<p align="left">
+<a style='margin:12px' href="https://discord.com/users/mitaka7120" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source  media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
+<a style='margin:12px' href="https://www.facebook.com/mitaka1210" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a>
+<a style='margin:12px' href="https://www.github.com/mitaka1210" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-white.svg" /> <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a style='margin:12px' href="https://www.linkedin.com/in/dimitar-dimitrov1201" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
+<a style='margin:12px' href="https://www.x.com/dimitar1201" target="_blank" rel="noreferrer"> <picture> <source  media="(prefers-color-scheme: white)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img style='color: red !important' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-Redux      3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+### Badges
 
-JSON       2 hrs 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-```
+<b>My GitHub Stats</b>
+<div style='display: flex'>
+<a href="http://www.github.com/mitaka1210"><img src="https://github-readme-stats.vercel.app/api?username=mitaka1210&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mitaka1210's GitHub stats" /></a>
+<a href="http://www.github.com/mitaka1210"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mitaka1210&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!--END_SECTION:waka-->
+</div>
+<b>Top Repositories</b>
 
-```text
-🔥 Editors and Prepros Who Today i will use for training.They are most using, but i know more 😄
+<div width="100%" align="center"><a href="https://github.com/mitaka1210/mitaka-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mitaka1210&repo=mitaka-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mitaka1210/Personal-Portfolio--2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mitaka1210&repo=Personal-Portfolio--2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<!-- <div style='margin:15px 0 15px 0;''>
+<b>Top Languages</b>
+</div>
+<div style='display: flex; justify-content: center'>
+    <a href="https://github.com/mitaka1210" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitaka1210&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | -->
+<!-- </div> -->
 
-SublimeText             6 hrs 42 mins        ████████████░░░░░░░░░░░░░░░  77.43%
+</div>
 
-Visual Studio           1 hrs 35 mins        ████░░░░░░░░░░░░░░░░░░░░░    8.57%
-
-VS Code                 9 hrs 23 mins        ███████████████████████████░ 92.49%
-
-Prepros                 1 hrs 35 mins        ████████░░░░░░░░░░░░░░░░░░░░ 28.07%
-
-Figma                   1 hrs 35 mins        ██████░░░░░░░░░░░░░░░░░░░░░░ 18.07%
-```
-
-🚧 **My Todoist Stats:**
-
-<!-- TODO-IST:START -->
-
-🏆 6,886 Karma Points  
-🌸 Completed 0 tasks today  
-✅ Completed 524 tasks so far  
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mitaka1210&show_icons=true&theme=gotham" alt="mitaka1210" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
