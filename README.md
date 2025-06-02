@@ -1,7 +1,7 @@
 <div align="center" style='margin: 3em;'>
     <h2 style='font-family: "Akaya Telivigala", system-ui;
   font-weight: 400;
-  font-style: normal;'>Hi all and welcome to my page!</h2>
+  font-style: normal;'>Hi all, and welcome to my page!</h2>
     <h4 style='  font-family: "Akaya Telivigala", system-ui;
   font-weight: 400;
   font-style: normal;'>I'm Dimitar, Front-end developer from  Shumen, Bulgaria</h4>
@@ -14,9 +14,9 @@ Front-end Developer
 
 * 🌍  I'm based in Ruse, Bulgaria
 * ✉️  You can contact me at [dimitard185@gmail.com](mailto:dimitard185@gmail.com)
-* 🚀  I'm currently working on [my-website](https://mitaka-website.vercel.app)
-* 🤝  I'm open to collaborating on interesting project
-* ⚡  First Live and work in your spare time!
+* 🚀  I'm currently working on [my-website](https://eng.d-dimitrov.eu/Home-page) or [my-website](https://mitaka-website-stage.vercel.app/Home-page)
+* 🤝  I'm open to collaborating on an interesting project
+* ⚡  First, live and work in your spare time!
 
 <!-- <a href="https://www.github.com/mitaka1210" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mitaka1210?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
