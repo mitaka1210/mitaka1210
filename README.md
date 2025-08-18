@@ -14,7 +14,7 @@ Front-end Developer
 
 * 🌍  I'm based in Ruse, Bulgaria
 * ✉️  You can contact me at [dimitard185@gmail.com](mailto:dimitard185@gmail.com)
-* 🚀  I'm currently working on [my-website](https://eng.d-dimitrov.eu/Home-page) or [my-website](https://mitaka-website-stage.vercel.app/Home-page)
+* 🚀  I'm currently working on [my-website](https://eng.d-dimitrov.eu/Home-page) or [my-website](https://http://engineer.d-dimitrov.eu/)
 * 🤝  I'm open to collaborating on an interesting project
 * ⚡  First, live and work in your spare time!
 
